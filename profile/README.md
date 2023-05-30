@@ -1,4 +1,4 @@
-<img alt="banner ternaku" src="./banner.png"><br>
+<img alt="banner ternaku" src="banner.png"><br>
 
 ## Introduction
 
