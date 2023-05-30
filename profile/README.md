@@ -1,4 +1,4 @@
-<img alt="banner ternaku" src="banner.png"><br>
+<img alt="banner ternaku" src="[banner.png](https://github.com/ecoEase/.github/blob/main/profile/banner.png?raw=true)"><br>
 
 ## Introduction
 
